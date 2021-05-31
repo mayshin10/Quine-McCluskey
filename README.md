@@ -1,3 +1,4 @@
+<img width="114" alt="스크린샷 2021-06-01 오전 12 28 18" src="https://user-images.githubusercontent.com/56920080/120216317-d674bd80-c271-11eb-9e97-2d288046b401.png">
 <img width="759" alt="스크린샷 2021-06-01 오전 12 38 55" src="https://user-images.githubusercontent.com/56920080/120216270-c230c080-c271-11eb-9963-c4299fc02794.png">
 # Minimal Expression Generator using Quine-McCluskey algorithm
 
