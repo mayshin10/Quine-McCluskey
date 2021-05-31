@@ -7,7 +7,9 @@
 ###### Output
 <img width="200" alt="스크린샷 2021-06-01 오전 12 28 18" src="https://user-images.githubusercontent.com/56920080/120215141-57cb5080-c270-11eb-8abb-4ee3f92727fc.png">
 
+</br>
 ---
+</br>
 
 ### 1. Build
 ```
@@ -18,13 +20,21 @@ or
 g++ -std=c++17 -g MEG.cpp -o MEG
 ``` 
 
+
+</br>
 ---
+</br>
+
 
 ### 2. Input method
 Line 12 to 14 in MEG.cpp contains input arrays for 3, 4, 5-variable minterms.
 <img width="759" alt="스크린샷 2021-06-01 오전 12 38 55" src="https://user-images.githubusercontent.com/56920080/120216270-c230c080-c271-11eb-9963-c4299fc02794.png">
 
+
+</br>
 ---
+</br>
+
 
 ### 3. Results
 
@@ -33,7 +43,6 @@ Line 12 to 14 in MEG.cpp contains input arrays for 3, 4, 5-variable minterms.
 
 ##### 4-variable Minimal Expression
 <img width="400" alt="스크린샷 2021-06-01 오전 12 28 18" src="https://user-images.githubusercontent.com/56920080/120215958-59e1df00-c271-11eb-90ed-69f65c3a69a2.png">
-
 
 ##### 5-variable Minimal Expression
 <img width="400" alt="스크린샷 2021-06-01 오전 12 28 18" src="https://user-images.githubusercontent.com/56920080/120215966-5c443900-c271-11eb-99df-ccf44cec546d.png">
