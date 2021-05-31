@@ -6,7 +6,7 @@
 
 #### Output
 <img width="200" alt="스크린샷 2021-06-01 오전 12 28 18" src="https://user-images.githubusercontent.com/56920080/120215141-57cb5080-c270-11eb-8abb-4ee3f92727fc.png">
-
+---
 ### 1. Build
 ```
 /usr/bin/clang++ -std=c++17 -stdlib=libc++ -g MEG.cpp -o MEG 
@@ -16,11 +16,13 @@ or
 g++ -std=c++17 -g MEG.cpp -o MEG
 ```
  
+---
 ### 2. Input method
 Line 12 to 14 in MEG.cpp contains input arrays for 3, 4, 5-variable minterms.
 <img width="759" alt="스크린샷 2021-06-01 오전 12 38 55" src="https://user-images.githubusercontent.com/56920080/120216270-c230c080-c271-11eb-9963-c4299fc02794.png">
 
 
+---
 ### 3. Results
 
 -  3-variable Minimal Expression
